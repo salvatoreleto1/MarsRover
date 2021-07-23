@@ -1,0 +1,12 @@
+/Users/toreyleto/Desktop/MarsRover/MarsRover/bin/Debug/netcoreapp3.1/MarsRover.deps.json
+/Users/toreyleto/Desktop/MarsRover/MarsRover/bin/Debug/netcoreapp3.1/MarsRover.runtimeconfig.json
+/Users/toreyleto/Desktop/MarsRover/MarsRover/bin/Debug/netcoreapp3.1/MarsRover.runtimeconfig.dev.json
+/Users/toreyleto/Desktop/MarsRover/MarsRover/bin/Debug/netcoreapp3.1/MarsRover.dll
+/Users/toreyleto/Desktop/MarsRover/MarsRover/bin/Debug/netcoreapp3.1/MarsRover.pdb
+/Users/toreyleto/Desktop/MarsRover/MarsRover/obj/Debug/netcoreapp3.1/MarsRover.csproj.AssemblyReference.cache
+/Users/toreyleto/Desktop/MarsRover/MarsRover/obj/Debug/netcoreapp3.1/MarsRover.AssemblyInfoInputs.cache
+/Users/toreyleto/Desktop/MarsRover/MarsRover/obj/Debug/netcoreapp3.1/MarsRover.AssemblyInfo.cs
+/Users/toreyleto/Desktop/MarsRover/MarsRover/obj/Debug/netcoreapp3.1/MarsRover.csproj.CoreCompileInputs.cache
+/Users/toreyleto/Desktop/MarsRover/MarsRover/obj/Debug/netcoreapp3.1/MarsRover.dll
+/Users/toreyleto/Desktop/MarsRover/MarsRover/obj/Debug/netcoreapp3.1/MarsRover.pdb
+/Users/toreyleto/Desktop/MarsRover/MarsRover/obj/Debug/netcoreapp3.1/MarsRover.genruntimeconfig.cache
